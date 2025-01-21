@@ -20,7 +20,7 @@ This project utilizes the YOLOv11 model for segmentation tasks, specifically aim
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/brain-tumor-segmentation.git
+   git clone https://github.com/aybalakilic/Brain-Tumor-Segmentation.git
    cd brain-tumor-segmentation
    ```
    
@@ -62,7 +62,7 @@ Bu proje, YOLOv11 modelini segmentasyon görevleri için kullanarak tıbbi gör�
 ## Kurulum
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/yourusername/brain-tumor-segmentation.git
+   git clone https://github.com/aybalakilic/Brain-Tumor-Segmentation.git
    cd brain-tumor-segmentation
    ```
      
