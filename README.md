@@ -38,12 +38,7 @@ This project utilizes the YOLOv11 model for segmentation tasks, specifically aim
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
----
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 # Beyin Tümörü Segmentasyonu YOLOv11 Kullanılarak
 
@@ -86,7 +81,4 @@ Bu proje, YOLOv11 modelini segmentasyon görevleri için kullanarak tıbbi gör�
 ## Katkıda Bulunma
 Katkılar memnuniyetle karşılanır! Lütfen projeyi fork ederek inceleme için bir pull request gönderin.
 
----
 
-## Lisans
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
